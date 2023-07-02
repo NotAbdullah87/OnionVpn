@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/OnionVpn/static/css/main.2d359dbc.css",
+    "main.js": "/OnionVpn/static/js/main.558dea00.js",
+    "static/js/787.3245a617.chunk.js": "/OnionVpn/static/js/787.3245a617.chunk.js",
+    "static/media/Huge Global.png": "/OnionVpn/static/media/Huge Global.9dcbf7fad0bfcfde0e33.png",
+    "static/media/Illustration 1.png": "/OnionVpn/static/media/Illustration 1.0106f0e3d7005d825fba.png",
+    "static/media/Illustration 2.png": "/OnionVpn/static/media/Illustration 2.6038ca5da922b273a153.png",
+    "static/media/Free.svg": "/OnionVpn/static/media/Free.debe620644eed3925d989dbeda3b1981.svg",
+    "index.html": "/OnionVpn/index.html",
+    "main.2d359dbc.css.map": "/OnionVpn/static/css/main.2d359dbc.css.map",
+    "main.558dea00.js.map": "/OnionVpn/static/js/main.558dea00.js.map",
+    "787.3245a617.chunk.js.map": "/OnionVpn/static/js/787.3245a617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d359dbc.css",
+    "static/js/main.558dea00.js"
+  ]
+}
